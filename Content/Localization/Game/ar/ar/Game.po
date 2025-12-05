@@ -1,0 +1,379 @@
+﻿# Game Arabic translation.
+# Fill out your copyright notice in the Description page of Project Settings.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Game\n"
+"POT-Creation-Date: 2025-12-04 19:58\n"
+"PO-Revision-Date: 2025-12-04 19:58\n"
+"Language-Team: \n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+
+#. Key:	5761B6834F5E2168A61092BB1713DDAF
+#. SourceLocation:	/Game/__Dev/Blueprints/PropertyID.PropertyID.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/__Dev/Blueprints/PropertyID.PropertyID.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",5761B6834F5E2168A61092BB1713DDAF"
+msgid "Greener"
+msgstr "أخضر"
+
+#. Key:	C74F0F8A46669660A1FC5887BC2B0C71
+#. SourceLocation:	/Game/__Dev/Blueprints/PropertyID.PropertyID.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/__Dev/Blueprints/PropertyID.PropertyID.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",C74F0F8A46669660A1FC5887BC2B0C71"
+msgid "Liveable"
+msgstr "صالح للعيش"
+
+#. Key:	8F1A189443DC5943204A7F81D512602C
+#. SourceLocation:	/Game/__Dev/Blueprints/PropertyID.PropertyID.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/__Dev/Blueprints/PropertyID.PropertyID.DisplayNameMap(2 - Value).DisplayNameMap
+msgctxt ",8F1A189443DC5943204A7F81D512602C"
+msgid "Happiness"
+msgstr "السعادة"
+
+#. Key:	28ED75F044116E9A7CB41289E1B2E2FA
+#. SourceLocation:	/Game/__Dev/Blueprints/PropertyID.PropertyID.DisplayNameMap(3 - Value).DisplayNameMap
+#: /Game/__Dev/Blueprints/PropertyID.PropertyID.DisplayNameMap(3 - Value).DisplayNameMap
+msgctxt ",28ED75F044116E9A7CB41289E1B2E2FA"
+msgid "Connected"
+msgstr "مترابط"
+
+#. Key:	93BA4551455F37314CD7D78E689785B3
+#. SourceLocation:	/Game/__Dev/Blueprints/PropertyID.PropertyID.DisplayNameMap(4 - Value).DisplayNameMap
+#: /Game/__Dev/Blueprints/PropertyID.PropertyID.DisplayNameMap(4 - Value).DisplayNameMap
+msgctxt ",93BA4551455F37314CD7D78E689785B3"
+msgid "Productive"
+msgstr "منتج"
+
+#. Key:	3C0B0B9B49A651DF4E4C62804FF06F6A
+#. SourceLocation:	/Game/__Dev/Blueprints/PropertyID.PropertyID.DisplayNameMap(5 - Value).DisplayNameMap
+#: /Game/__Dev/Blueprints/PropertyID.PropertyID.DisplayNameMap(5 - Value).DisplayNameMap
+msgctxt ",3C0B0B9B49A651DF4E4C62804FF06F6A"
+msgid "NZC"
+msgstr "الهدف: صافي صفر انبعاثات (NZC)"
+
+#. Key:	A711742E49503A0A1AD721B736E5BFE9
+#. SourceLocation:	/Game/__Dev/Blueprints/PropertyID.PropertyID.DisplayNameMap(6 - Value).DisplayNameMap
+#: /Game/__Dev/Blueprints/PropertyID.PropertyID.DisplayNameMap(6 - Value).DisplayNameMap
+msgctxt ",A711742E49503A0A1AD721B736E5BFE9"
+msgid "Resilient"
+msgstr "مرن"
+
+#. Key:	Intro_Desc
+#. SourceLocation:	/Game/__Dev/EngArab.EngArab
+#: /Game/__Dev/EngArab.EngArab
+msgctxt "EngArab,Intro_Desc"
+msgid "Discover how today’s choices shape tomorrow’s city greener, connected, and built for happiness"
+msgstr "اكتشف كيف تُسهم اختياراتك اليوم في تشكيل مدينة الغد أكثر خُضرة وترابطًا، ومصمّمة للسعادة."
+
+#. Key:	3CB4092D4C439EAB10A871ADC78AFDE9
+#. SourceLocation:	/Game/__Dev/Tools.Tools_C:GetText [Script Bytecode]
+#: /Game/__Dev/Tools.Tools_C:GetText [Script Bytecode]
+msgctxt ",3CB4092D4C439EAB10A871ADC78AFDE9"
+msgid "None"
+msgstr "None"
+
+#. Key:	4956791345FA7A587A12908A6ABB87D6
+#. SourceLocation:	/Game/__Dev/Tools.Tools_C:WidgetTree.TextBlock.Text
+#: /Game/__Dev/Tools.Tools_C:WidgetTree.TextBlock.Text
+msgctxt ",4956791345FA7A587A12908A6ABB87D6"
+msgid "Show"
+msgstr "Show"
+
+#. Key:	1005E95646308D529DED6B812D824D73
+#. SourceLocation:	/Game/__Dev/Tools.Tools_C:WidgetTree.TextBlock_1.Text
+#: /Game/__Dev/Tools.Tools_C:WidgetTree.TextBlock_1.Text
+msgctxt ",1005E95646308D529DED6B812D824D73"
+msgid "Add"
+msgstr "Add"
+
+#. Key:	85ADB2164663EB6B304F8B930F716E65
+#. SourceLocation:	/Game/__Dev/Tools.Tools_C:WidgetTree.TextBlock_2.Text
+#: /Game/__Dev/Tools.Tools_C:WidgetTree.TextBlock_2.Text
+msgctxt ",85ADB2164663EB6B304F8B930F716E65"
+msgid "Select"
+msgstr "Select"
+
+#. Key:	E036681F42AE26D21AA05A9687C45F0E
+#. SourceLocation:	/Game/__Dev/Tools.Tools_C:WidgetTree.TextBlock_3.Text
+#: /Game/__Dev/Tools.Tools_C:WidgetTree.TextBlock_3.Text
+msgctxt ",E036681F42AE26D21AA05A9687C45F0E"
+msgid "Validate"
+msgstr "Validate"
+
+#. Key:	59F9FF0A4103FAC66C4F57A7E6D3AD70
+#. SourceLocation:	/Game/__Dev/Tools.Tools_C:WidgetTree.TextBlock_4.Text
+#: /Game/__Dev/Tools.Tools_C:WidgetTree.TextBlock_4.Text
+msgctxt ",59F9FF0A4103FAC66C4F57A7E6D3AD70"
+msgid "Refresh"
+msgstr "Refresh"
+
+#. Key:	609FAFFF4A7652D0B2E018A8F8036FE8
+#. SourceLocation:	/Game/__Dev/Tools.Tools_C:WidgetTree.TextBlock_91.Text
+#: /Game/__Dev/Tools.Tools_C:WidgetTree.TextBlock_91.Text
+msgctxt ",609FAFFF4A7652D0B2E018A8F8036FE8"
+msgid "Hide"
+msgstr "Hide"
+
+#. Key:	2D71F50D430EF5DB433C37960855F82B
+#. SourceLocation:	/Game/__Dev/UI/Main/BuildingButton.BuildingButton_C:WidgetTree.TextBlock_1.Text
+#: /Game/__Dev/UI/Main/BuildingButton.BuildingButton_C:WidgetTree.TextBlock_1.Text
+msgctxt ",2D71F50D430EF5DB433C37960855F82B"
+msgid "Add green shade and local gathering spaces. Add green shade and local gathering spaces. Add green shade and local gathering spaces."
+msgstr "أضف المساحات الخضراء ومناطق التجمع المحلية.أضف المساحات الخضراء ومناطق التجمع المحلية."
+
+#. Key:	19B18BA544D34A912EBC16B1177138AF
+#. SourceLocation:	/Game/__Dev/UI/Main/Main.Main_C:WidgetTree.TextBlock.Text
+#: /Game/__Dev/UI/Main/Main.Main_C:WidgetTree.TextBlock.Text
+msgctxt ",19B18BA544D34A912EBC16B1177138AF"
+msgid "Progress to 2040"
+msgstr "التقدم نحو 2040"
+
+#. Key:	8211A13C427232A8180BB98191063D69
+#. SourceLocation:	/Game/__Dev/UI/Main/Main.Main_C:WidgetTree.TextBlock_1.Text
+#: /Game/__Dev/UI/Main/Main.Main_C:WidgetTree.TextBlock_1.Text
+msgctxt ",8211A13C427232A8180BB98191063D69"
+msgid "Step 1: Explore Options"
+msgstr "الخطوة 1: استكشاف الخيارات"
+
+#. Key:	ACC4F06A4CA71654DEFC3EB4977E27A3
+#. SourceLocation:	/Game/__Dev/UI/Main/Main.Main_C:WidgetTree.TextBlock_10.Text
+#: /Game/__Dev/UI/Main/Main.Main_C:WidgetTree.TextBlock_10.Text
+msgctxt ",ACC4F06A4CA71654DEFC3EB4977E27A3"
+msgid "Step 5: Experiment Freely"
+msgstr "الخطوة 5: جرب بحرية"
+
+#. Key:	7CFA5ECF49A153BB6EED93A1CEFF3745
+#. SourceLocation:	/Game/__Dev/UI/Main/Main.Main_C:WidgetTree.TextBlock_100.Text
+#: /Game/__Dev/UI/Main/Main.Main_C:WidgetTree.TextBlock_100.Text
+msgctxt ",7CFA5ECF49A153BB6EED93A1CEFF3745"
+msgid "Congratulations!"
+msgstr "تهانينا!"
+
+#. Key:	66BE12264AA6F50CF6C82F8C5CF5853F
+#. SourceLocation:	/Game/__Dev/UI/Main/Main.Main_C:WidgetTree.TextBlock_11.Text
+#: /Game/__Dev/UI/Main/Main.Main_C:WidgetTree.TextBlock_11.Text
+msgctxt ",66BE12264AA6F50CF6C82F8C5CF5853F"
+msgid "Use Undo/Redo or Reset anytime. Mix upgrades to find the best balance."
+msgstr "استخدم التراجع/الإعادة أو إعادة الضبط في أي وقت. اجمع بين الترقيات لإيجاد أفضل توازن."
+
+#. Key:	A5748BAF4FD2783887E19297544C1421
+#. SourceLocation:	/Game/__Dev/UI/Main/Main.Main_C:WidgetTree.TextBlock_12.Text
+#: /Game/__Dev/UI/Main/Main.Main_C:WidgetTree.TextBlock_12.Text
+msgctxt ",A5748BAF4FD2783887E19297544C1421"
+msgid "Instructions"
+msgstr "التعليمات"
+
+#. Key:	C494A50744025EE0666960AABEE5FB82
+#. SourceLocation:	/Game/__Dev/UI/Main/Main.Main_C:WidgetTree.TextBlock_13.Text
+#: /Game/__Dev/UI/Main/Main.Main_C:WidgetTree.TextBlock_13.Text
+msgctxt ",C494A50744025EE0666960AABEE5FB82"
+msgid "Restart"
+msgstr "إعادة التشغيل"
+
+#. Key:	5D7757B94C83187909A78AAFD0030E93
+#. SourceLocation:	/Game/__Dev/UI/Main/Main.Main_C:WidgetTree.TextBlock_14.Text
+#: /Game/__Dev/UI/Main/Main.Main_C:WidgetTree.TextBlock_14.Text
+msgctxt ",5D7757B94C83187909A78AAFD0030E93"
+msgid "Your city is now greener, more connected, resilient, liveable, productive, and on the path to net zero."
+msgstr "مدينتك أصبحت الآن أكثر خضرة، وأكثر ترابطًا، ومرونة، وصالحة للعيش، ومنتجة، وعلى طريق صافي صفر انبعاثات."
+
+#. Key:	CC58C92D4A700BA9781F46A1DF33F81D
+#. SourceLocation:	/Game/__Dev/UI/Main/Main.Main_C:WidgetTree.TextBlock_15.Text
+#: /Game/__Dev/UI/Main/Main.Main_C:WidgetTree.TextBlock_15.Text
+msgctxt ",CC58C92D4A700BA9781F46A1DF33F81D"
+msgid "Play Again"
+msgstr "العب مرة أخرى"
+
+#. Key:	31EC8A3E4F3B24A5383FC5AC42FDFF79
+#. SourceLocation:	/Game/__Dev/UI/Main/Main.Main_C:WidgetTree.TextBlock_151.Text
+#: /Game/__Dev/UI/Main/Main.Main_C:WidgetTree.TextBlock_151.Text
+msgctxt ",31EC8A3E4F3B24A5383FC5AC42FDFF79"
+msgid "Build a Better Muscat"
+msgstr "بناء مسقط أفضل"
+
+#. Key:	0EA6E8C04DFE063210E335B64C75EE0A
+#. SourceLocation:	/Game/__Dev/UI/Main/Main.Main_C:WidgetTree.TextBlock_2.Text
+#: /Game/__Dev/UI/Main/Main.Main_C:WidgetTree.TextBlock_2.Text
+msgctxt ",0EA6E8C04DFE063210E335B64C75EE0A"
+msgid "Add green shade and local gathering spaces.”"
+msgstr "أضف المساحات الخضراء ومناطق التجمع المحلية."
+
+#. Key:	DD02756F4DE312C59727738C81C760BB
+#. SourceLocation:	/Game/__Dev/UI/Main/Main.Main_C:WidgetTree.TextBlock_256.Text
+#: /Game/__Dev/UI/Main/Main.Main_C:WidgetTree.TextBlock_256.Text
+msgctxt ",DD02756F4DE312C59727738C81C760BB"
+msgid "Home"
+msgstr "الرئيسية"
+
+#. Key:	779A24674DC02823727EE0BB6A2C5673
+#. SourceLocation:	/Game/__Dev/UI/Main/Main.Main_C:WidgetTree.TextBlock_3.Text
+#: /Game/__Dev/UI/Main/Main.Main_C:WidgetTree.TextBlock_3.Text
+msgctxt ",779A24674DC02823727EE0BB6A2C5673"
+msgid "Step 2: Drag & Drop"
+msgstr "الخطوة 2: السحب والإفلات"
+
+#. Key:	33E8B7F54DC3E63C8DC01EBF3CF450D6
+#. SourceLocation:	/Game/__Dev/UI/Main/Main.Main_C:WidgetTree.TextBlock_4.Text
+#: /Game/__Dev/UI/Main/Main.Main_C:WidgetTree.TextBlock_4.Text
+msgctxt ",33E8B7F54DC3E63C8DC01EBF3CF450D6"
+msgid "Click and drag an upgrade into the 3D city model. Drop it to activate changes."
+msgstr "انقر واسحب أي ترقية إلى نموذج المدينة ثلاثي الأبعاد. حررها لتفعيل التغييرات."
+
+#. Key:	25A821AF447466393D8A5BBF8A0C8E32
+#. SourceLocation:	/Game/__Dev/UI/Main/Main.Main_C:WidgetTree.TextBlock_5.Text
+#: /Game/__Dev/UI/Main/Main.Main_C:WidgetTree.TextBlock_5.Text
+msgctxt ",25A821AF447466393D8A5BBF8A0C8E32"
+msgid "Step 3: Watch the Impact"
+msgstr "الخطوة 3: شاهد التأثير"
+
+#. Key:	D09658E0485BB54FBA97B8A28A4C8DFB
+#. SourceLocation:	/Game/__Dev/UI/Main/Main.Main_C:WidgetTree.TextBlock_6.Text
+#: /Game/__Dev/UI/Main/Main.Main_C:WidgetTree.TextBlock_6.Text
+msgctxt ",D09658E0485BB54FBA97B8A28A4C8DFB"
+msgid "Each upgrade changes the Six Pillars:"
+msgstr "كل ترقية تؤثر على الأعمدة الستة:"
+
+#. Key:	78025A43441070594FD06BBBCA46CD2F
+#. SourceLocation:	/Game/__Dev/UI/Main/Main.Main_C:WidgetTree.TextBlock_7.Text
+#: /Game/__Dev/UI/Main/Main.Main_C:WidgetTree.TextBlock_7.Text
+msgctxt ",78025A43441070594FD06BBBCA46CD2F"
+msgid "- Greener\r\n- Connected\r\n- Resilient\r\n -Liveable\r\n- Productive\r\n- Net Zero"
+msgstr "- أخضر\r\n- مترابط\r\n- مرن\r\n- صالح للعيش\r\n- منتج\r\n- صافي صفر انبعاثات"
+
+#. Key:	89E4713B415CAF70396402831E85676A
+#. SourceLocation:	/Game/__Dev/UI/Main/Main.Main_C:WidgetTree.TextBlock_8.Text
+#: /Game/__Dev/UI/Main/Main.Main_C:WidgetTree.TextBlock_8.Text
+msgctxt ",89E4713B415CAF70396402831E85676A"
+msgid "Step 4: Track Happiness"
+msgstr "الخطوة 4: متابعة السعادة"
+
+#. Key:	22FC858A4CD993EA57C414A8CCE9ADE7
+#. SourceLocation:	/Game/__Dev/UI/Main/Main.Main_C:WidgetTree.TextBlock_9.Text
+#: /Game/__Dev/UI/Main/Main.Main_C:WidgetTree.TextBlock_9.Text
+msgctxt ",22FC858A4CD993EA57C414A8CCE9ADE7"
+msgid "Your choices raise or lower the Happiness Meter.\r\n Reach 100% Happiness to win and unlock a celebration!"
+msgstr "خياراتك ترفع أو تخفض مؤشر السعادة.\r\nوصل إلى 100% سعادة للفوز وفتح الاحتفال!"
+
+#. Key:	C358E7BA45C684C90BC4DD92FB87D243
+#. SourceLocation:	/Game/__Dev/UI/Main/Main.Main_C:WidgetTree.TextBlock_98.Text
+#: /Game/__Dev/UI/Main/Main.Main_C:WidgetTree.TextBlock_98.Text
+msgctxt ",C358E7BA45C684C90BC4DD92FB87D243"
+msgid "How to Play: Build a Better Muscat"
+msgstr "كيفية اللعب: بناء مسقط أفضل"
+
+#. Key:	7B4DD03548D5A92F2D7C37A3CB393242
+#. SourceLocation:	/Game/__Dev/UI/Main/PropTile.PropTile_C:WidgetTree.TextBlock_89.Text
+#: /Game/__Dev/UI/Main/PropTile.PropTile_C:WidgetTree.TextBlock_89.Text
+msgctxt ",7B4DD03548D5A92F2D7C37A3CB393242"
+msgid "Liveable"
+msgstr "صالح للعيش"
+
+#. Key:	2DD265FC44D50481F5D3AF8EB93BBBB0
+#. SourceLocation:	/Game/__Dev/UI/Main/Tile_A.Tile_A_C:WidgetTree.TextBlock.Text
+#: /Game/__Dev/UI/Main/Tile_A.Tile_A_C:WidgetTree.TextBlock.Text
+msgctxt ",2DD265FC44D50481F5D3AF8EB93BBBB0"
+msgid "0%"
+msgstr "0%"
+
+#. Key:	4204DDD84EF3E7A9FCBF388E54A4CC2C
+#. SourceLocation:	/Game/__Dev/UI/Main/Tile_A.Tile_A_C:WidgetTree.TextBlock_1.Text
+#: /Game/__Dev/UI/Main/Tile_A.Tile_A_C:WidgetTree.TextBlock_1.Text
+msgctxt ",4204DDD84EF3E7A9FCBF388E54A4CC2C"
+msgid "100%"
+msgstr "100%"
+
+#. Key:	AC76A0EF4ACE433C4CAA83B43E71BFA7
+#. SourceLocation:	/Game/__Dev/UI/Main/Tile_A.Tile_A_C:WidgetTree.txtScore.Text
+#: /Game/__Dev/UI/Main/Tile_A.Tile_A_C:WidgetTree.txtScore.Text
+msgctxt ",AC76A0EF4ACE433C4CAA83B43E71BFA7"
+msgid "25%"
+msgstr "25%"
+
+#. Key:	5F809E844B060ABD6D018C8B5476AF50
+#. SourceLocation:	/Game/__Dev/UI/Main/Tile_A.Tile_A_C:WidgetTree.txtTitle.Text
+#: /Game/__Dev/UI/Main/Tile_A.Tile_A_C:WidgetTree.txtTitle.Text
+msgctxt ",5F809E844B060ABD6D018C8B5476AF50"
+msgid "Happiness"
+msgstr "السعادة"
+
+#. Key:	9DAD815344DF711887AFF6AA90076AED
+#. SourceLocation:	/Game/__Dev/UI/Main/Tile_B.Tile_B_C:WidgetTree.txtScore.Text
+#: /Game/__Dev/UI/Main/Tile_B.Tile_B_C:WidgetTree.txtScore.Text
+msgctxt ",9DAD815344DF711887AFF6AA90076AED"
+msgid "25%"
+msgstr "25%"
+
+#. Key:	F42668EB4CCBDC6962BB94B284EC8CC6
+#. SourceLocation:	/Game/__Dev/UI/Main/Tile_B.Tile_B_C:WidgetTree.txtTitle.Text
+#: /Game/__Dev/UI/Main/Tile_B.Tile_B_C:WidgetTree.txtTitle.Text
+msgctxt ",F42668EB4CCBDC6962BB94B284EC8CC6"
+msgid "Happiness"
+msgstr "السعادة"
+
+#. Key:	2202CF5F40959B4EE78C989583A1A428
+#. SourceLocation:	/Game/__Dev/UI/Main/TileBase.TileBase_C:Update [Script Bytecode]
+#: /Game/__Dev/UI/Main/TileBase.TileBase_C:Update [Script Bytecode]
+msgctxt ",2202CF5F40959B4EE78C989583A1A428"
+msgid "{S}%"
+msgstr "{S}%"
+
+#. Key:	58FAC07146E5C7E2AE70C3A572685653
+#. SourceLocation:	/Game/__Dev/UI/Main/ViewportWidget.ViewportWidget_C:WidgetTree.TextBlock_79.Text
+#: /Game/__Dev/UI/Main/ViewportWidget.ViewportWidget_C:WidgetTree.TextBlock_79.Text
+msgctxt ",58FAC07146E5C7E2AE70C3A572685653"
+msgid "Set"
+msgstr "Set"
+
+#. Key:	5EAE0166454EF6C2F667F083384B5C8C
+#. SourceLocation:	/Game/__Dev/UI/Menu/CTA.CTA_C:WidgetTree.TextBlock.Text
+#: /Game/__Dev/UI/Menu/CTA.CTA_C:WidgetTree.TextBlock.Text
+msgctxt ",5EAE0166454EF6C2F667F083384B5C8C"
+msgid "Drag and drop to start building a better Muscat"
+msgstr "اسحب وأفلت للبدء في بناء مسقط أفضل"
+
+#. Key:	9EE11B3C42FEF0EAB352B5A4BAE9CD47
+#. SourceLocation:	/Game/__Dev/UI/Menu/CTA.CTA_C:WidgetTree.TextBlock_1.Text
+#: /Game/__Dev/UI/Menu/CTA.CTA_C:WidgetTree.TextBlock_1.Text
+msgctxt ",9EE11B3C42FEF0EAB352B5A4BAE9CD47"
+msgid "Start Building"
+msgstr "ابدأ البناء"
+
+#. Key:	C7645F444DEF2D5F8011EB86E62F7E00
+#. SourceLocation:	/Game/__Dev/UI/Menu/Intro.Intro_C:WidgetTree.TextBlock.Text
+#: /Game/__Dev/UI/Menu/Intro.Intro_C:WidgetTree.TextBlock.Text
+msgctxt ",C7645F444DEF2D5F8011EB86E62F7E00"
+msgid "Discover how today’s choices shape tomorrow’s city greener, connected, and built for happiness"
+msgstr "اكتشف كيف تُسهم اختياراتك اليوم في تشكيل مدينة الغد أكثر خُضرة وترابطًا، ومصمّمة للسعادة."
+
+#. Key:	A038870C48A360263A8DCA85D41CEED6
+#. SourceLocation:	/Game/__Dev/UI/Menu/Intro.Intro_C:WidgetTree.TextBlock_1.Text
+#: /Game/__Dev/UI/Menu/Intro.Intro_C:WidgetTree.TextBlock_1.Text
+msgctxt ",A038870C48A360263A8DCA85D41CEED6"
+msgid "Tap to Start"
+msgstr "اضغط للبدء"
+
+#. Key:	F8856B454DFC252BAFC9D59EE579689B
+#. SourceLocation:	/Game/__Dev/UI/Menu/Intro.Intro_C:WidgetTree.TextBlock_86.Text
+#: /Game/__Dev/UI/Menu/Intro.Intro_C:WidgetTree.TextBlock_86.Text
+msgctxt ",F8856B454DFC252BAFC9D59EE579689B"
+msgid "Regenerating Muscat"
+msgstr "إعادة إحياء مسقط"
+
+#. Key:	F536891B46B1EC15B45623885154391C
+#. SourceLocation:	/Game/__Dev/UI/Menu/LangButton.LangButton_C:WidgetTree.TextBlock_2.Text
+#: /Game/__Dev/UI/Menu/LangButton.LangButton_C:WidgetTree.TextBlock_2.Text
+msgctxt ",F536891B46B1EC15B45623885154391C"
+msgid "Eng"
+msgstr "Eng"
+
+#. Key:	5FD93A2A40BFFDDF03D8ECBB99DE31D7
+#. SourceLocation:	/Game/__Dev/UI/Menu/LangButton.LangButton_C:WidgetTree.TextBlock_235.Text
+#: /Game/__Dev/UI/Menu/LangButton.LangButton_C:WidgetTree.TextBlock_235.Text
+msgctxt ",5FD93A2A40BFFDDF03D8ECBB99DE31D7"
+msgid "عربي"
+msgstr "عربي"
+
